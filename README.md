@@ -2,7 +2,7 @@
 
 **Warning**: Don’t blindly use my settings unless you know what that entails. Use at your own risk!
 
-Inspired by: ![Takuya's dotfiles](https://github.com/craftzdog/dotfiles-public)
+Inspired by: [Takuya's dotfiles](https://github.com/craftzdog/dotfiles-public)
 
 ## Requirements
 
